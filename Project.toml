@@ -1,6 +1,6 @@
 name = "Aim"
 uuid = "1a640e11-8466-471e-8a89-6fa66644843b"
-authors = ["aimhubio"]
+authors = ["Gev Soghomonyan, Gor Arakelyan & the Aim team"]
 version = "0.1.0"
 
 [compat]
