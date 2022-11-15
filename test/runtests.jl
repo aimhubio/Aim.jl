@@ -3,7 +3,7 @@ using Test
 using PyPlot
 
 @testset "Aim.jl" begin
-	run = aim.Run(repo = ".tmp_julia", experiment = "julia_experiment")
+	run = Aim.Run(repo = ".tmp_julia", experiment = "julia_experiment")
 
 	run.set(("hparams", "lr"), 0.001)
 
